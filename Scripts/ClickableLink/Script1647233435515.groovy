@@ -48,6 +48,3 @@ true) {
     WebUI.click(findTestObject('Object Repository/HomePageObj_OR2/Page_CURA Healthcare Service/a_Login'))
 }
 
-WebUI.verifyAllLinksOnCurrentPageAccessible(false, [findTestObject('HomePageObj_OR2/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x')
-        , findTestObject('HomePageObj_OR2/Page_CURA Healthcare Service/a_Home'), findTestObject('HomePageObj_OR2/Page_CURA Healthcare Service/h3_We Care About Your Health')])
-
